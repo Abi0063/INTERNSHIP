@@ -1,6 +1,0 @@
-let a=10;
-let b=20;
-console.log("add",a+b);
-console.log("sub",a-b);
-console.log("Multiplication",a*b);
-console.log("Divition",a/b);
